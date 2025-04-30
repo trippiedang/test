@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url(lily.jpg); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; 
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
